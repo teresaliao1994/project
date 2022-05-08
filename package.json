@@ -1,0 +1,27 @@
+{
+  "name": "gulp-4-sass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "browser-sync": "^2.27.4",
+    "gulp": "^4.0.0",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-sass": "^4.0.2"
+  },
+  "browserslist": [
+    "last 15 version",
+    "> 1%",
+    "ie 8",
+    "ie 7"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp-clean-css": "^4.3.0"
+  }
+}
